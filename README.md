@@ -1,6 +1,6 @@
 # Listings Intelligence + City intelligence Beta products
 
-## This is a product we are looking to develop to help agents identify and communicate changes in the market. It should be self explanatory, but if not, let us know where and how we may improve it
+## This is a test on a new line of products to help agents identify and communicate changes in the market. It should be self explanatory, but if not, let us know where and how we may improve it. ( Information to a very granular level can be added from publically available sources, but has been left out of the beta )
 
 # Listings Intelligence
 
