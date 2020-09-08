@@ -8,19 +8,19 @@
 
 <iframe src="https://public.tableau.com/views/Listings_POC_Beta/Listings_Story_Beta?:showVizHome=no&:embed=true" width="1200" height="1000"></iframe>
 # City Intelligence
- # 2.1 City Intelligence: Explore Crime events
+ # 2.1 City Intelligence: Explore Crime events. Move the filter to see the crime levels and explore the type of crimes that occurred
  
  <iframe src="https://public.tableau.com/views/POC_Buildings_Crime/Crime?:showVizHome=no&:embed=true" width="1200" height="1000"></iframe>
  
- # 2.2 City Intelligence: Find Restaurants and density
+ # 2.2 City Intelligence: Find Restaurants and density. Search for your favourite restaruants by name and explore restaurant "rich" an area is
  
   <iframe src="https://public.tableau.com/views/POC_Buildings_Restuarants/Restaurants?:showVizHome=no&:embed=true" width="1200" height="1000"></iframe>
 
- # 2.3 City Intelligence: Noise levels
+ # 2.3 City Intelligence: Noise levels : Explore the level of ambient noise 
  
   <iframe src="https://public.tableau.com/views/POC_Buildings_Noise/Noise?:showVizHome=no&:embed=true" width="1200" height="1000"></iframe>
 
- # 2.4 City Intelligence : Examine Road Safety
+ # 2.4 City Intelligence : Examine Road Safety : Explore dangerous areas to drive or cycle
 
 <iframe src="https://public.tableau.com/views/POC_Buildings_RoadSafety/RoadSafety?:showVizHome=no&:embed=true" width="1200" height="1000"></iframe>
 
