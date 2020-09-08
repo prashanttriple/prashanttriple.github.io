@@ -4,7 +4,7 @@
 
 # Listings Intelligence
 
- # 1.1 Price Bands, Price changes, Listed and in contract, Days on market :  Week on Week
+ # 1.1 Price Bands, Price changes, Listed and in contract, Days on market :  Week on Week Snapshot
 
 <iframe src="https://public.tableau.com/views/Listings_POC_Beta/Listings_Story_Beta?:showVizHome=no&:embed=true" width="1200" height="1000"></iframe>
 # City Intelligence
