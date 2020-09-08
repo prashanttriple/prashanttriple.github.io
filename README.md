@@ -12,7 +12,7 @@
  
  <iframe src="https://public.tableau.com/views/POC_Buildings_Crime/Crime?:showVizHome=no&:embed=true" width="1200" height="1000"></iframe>
  
- # 2.2 City Intelligence: Find Restaurants and density. Search for your favourite restaruants by name and explore restaurant "rich" an area is
+ # 2.2 City Intelligence: Find Restaurants and density. Search for your favourite restaurants by name and explore restaurant "rich" an area is
  
   <iframe src="https://public.tableau.com/views/POC_Buildings_Restuarants/Restaurants?:showVizHome=no&:embed=true" width="1200" height="1000"></iframe>
 
