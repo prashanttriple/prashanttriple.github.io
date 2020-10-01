@@ -1,6 +1,10 @@
 
 # Beta testing : Listings Intelligence + City intelligence  
 
+
+<iframe src="https://prod-useast-a.online.tableau.com/t/triplemint/views/DOM_Alpha/Listings_Story_Beta?:showVizHome=no&:embed=true" width="1200" height="1000"></iframe>
+
+
 ## This is a test on a new line of products to help agents identify and communicate changes in the market. It should be self explanatory, but if not, let us know where and how we may improve it. Information to a very granular level can be added from publically available sources, but has been left out of this current test. 
 
 # Listings Intelligence
