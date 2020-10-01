@@ -1,6 +1,3 @@
-<iframe src="https://public.tableau.com/views/POC_Buildings/Crime?:showVizHome=no&:embed=true" width="1200" height="1000"></iframe>
-
-<iframe src="https://prod-useast-a.online.tableau.com/t/triplemint/views/DOM_Alpha/Listings_Story_Beta?:showVizHome=no&:embed=true" width="1200" height="1000"></iframe>
 
 # Beta testing : Listings Intelligence + City intelligence  
 
