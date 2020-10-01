@@ -28,10 +28,11 @@
 # 3.1 Very early. Price elasticity model based on price change successes 
 
 <iframe src="https://public.tableau.com/views/Price_Elasticity_16015204399080/Post_Model_Results?:showVizHome=no&:embed=true" width="1200" height="1000"></iframe>
-Note:
 
-These are helpful guidelines on the probability of success for price reductions using a machine learning approach on historical listing price change data.
+## Note:
 
-The filters are high level groups that behave differently.
+### These are helpful guidelines on the probability of success for price reductions using a machine learning approach on historical listing price change data.
 
-2020 is not yet finalised so expect the rate of success to trend higher as closings occur.
+### The filters are high level groups that behave differently.
+
+### 2020 is not yet finalised so expect the rate of success to trend higher as closings occur.
