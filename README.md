@@ -3,8 +3,6 @@
 ## This is a test on a new line of products to help agents identify and communicate changes in the market. It should be self explanatory, but if not, let us know where and how we may improve it. Information to a very granular level can be added from publically available sources, but has been left out of this current test. 
 
 # Listings Intelligence
-<script type='text/javascript' src='https://prod-useast-a.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1016px; height: 1014px;'><object class='tableauViz' width='1016' height='1014' style='display:none;'><param name='host_url' value='https%3A%2F%2Fprod-useast-a.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;triplemint' /><param name='name' value='DOM_Alpha&#47;Listings_Story_Beta' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /></object></div>
-
 
  # 1.1 Price Bands, Price changes, Listed and in contract, Days on market :  Week on Week Snapshot. "In contract" added recently
 
