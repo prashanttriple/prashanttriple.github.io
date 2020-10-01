@@ -2,10 +2,6 @@
 # Listings Intelligence
 
 
- 
-
-# City Intelligence
-
  # 1.1 Price Bands, Price changes, Listed and in contract, Days on market :  Week on Week Snapshot. "In contract" added recently
 
 <iframe src="https://public.tableau.com/views/Listings_Aggregate/Listings_Story?:showVizHome=no&:embed=true" width="1200" height="1000"></iframe>
