@@ -2,7 +2,7 @@
 # Listings Intelligence
 
 
- # 1.1 Price Bands, Price changes, Listed and in contract, Days on market :  Week on Week Snapshot. "In contract" added recently
+ # 1.1 Price Bands, Price changes, Listed and in contract, Days on market :  Week on Week Snapshot. "In contract" added recently. Map of price drops added
 
 <iframe src="https://public.tableau.com/views/Listings_Aggregate/Listings_Story?:showVizHome=no&:embed=true" width="1400" height="1200"></iframe>
 
