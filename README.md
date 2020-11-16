@@ -20,3 +20,6 @@
   
 #### Q) Result: Value = Underpriced AND High Quality:
   A) We therefore define "Value" as properties listed today significantly underpriced and of high quality : that is properties below the normal range of price and of the type that we estimate better able to withstand a housing recession, should it come. 
+
+#### Q) How many properties are in the initial model results
+  A) Just over half the condo and coop properties listed today have results 
