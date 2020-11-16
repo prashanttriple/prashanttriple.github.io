@@ -18,3 +18,5 @@
 #### Q) Why is this important now?
   A) In April, our estimation was that Sellers would react slower compared to Buyers in their price expectations. Sellers are now reacting the changing market and the expansion in listings have softened prices. This is the right time for Buyers to pick up deals, but not every underpriced property is the same
   
+#### Q) Result: Value = Underpriced AND High Quality:
+  A) We therefore define "Value" as properties listed today significantly underpriced and of high quality : that is properties below the normal range of price and of the type that we estimate better able to withstand a housing recession, should it come. 
