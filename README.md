@@ -1,6 +1,6 @@
 
-## Value Condo and Coop picks for Buyers
-### We combined several Data Science and Machine learning models to identify some of the best value for money quality properties available now in NYC.
+## Value Condo and Coop properties for Buyers in today's market
+### We combined several of our Data Science and Machine learning models to identify some of the best value for money properties available now in NYC.
 
 <iframe src="https://public.tableau.com/views/Value_Buyers_v0_1/Value?:showVizHome=no&:embed=true" width="1400" height="1200"></iframe>
 
